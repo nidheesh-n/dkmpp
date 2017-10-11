@@ -49,7 +49,7 @@ t2 = Sys.time()
 clusters = res$cluster
 
 ##############################################################################################
-# Performance analysis (ARI)
+# Results and Performance analysis (ARI)
 ##############################################################################################
 if(classinfoav){
   result = data.frame(act.class, clusters)
