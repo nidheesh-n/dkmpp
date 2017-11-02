@@ -11,6 +11,7 @@ A sample test dataset (LEU.csv) has been provided, which is a processed version 
 
 References:
 
-[1] https://doi.org/10.1016/j.compbiomed.2017.10.014
+[1] N. Nidheesh, K.A. Abdul Nazeer, P.M. Ameer, An enhanced deterministic K-Means clustering algorithm for cancer subtype prediction from gene expression data, Computers in Biology and Medicine 91C (2017) pp. 213-221.
+https://doi.org/10.1016/j.compbiomed.2017.10.014
 
 [2]  S. Monti, P. Tamayo, J. Mesirov, T. Golub, Consensus clustering: A resampling-based method for class discovery and visualization of gene expression microarray data, Machine Learning 52 (1) (2003) 91–118. doi:10.1023/A:1023949509487.
